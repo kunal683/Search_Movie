@@ -1,6 +1,6 @@
 # Search_Movie
 
-This is an application to any movie and get the details of that movie. 
+This is an application to search any movie and get the details of that movie. 
 
 This would allow users to judge a movie based on various details provided to them.
 
